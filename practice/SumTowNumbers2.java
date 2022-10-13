@@ -1,3 +1,5 @@
+// 2.Write a Java program to print the sum of two numbers
+
 public class SumTowNumbers2 {
     public static void main(String[] args){
         int num1 = 6;

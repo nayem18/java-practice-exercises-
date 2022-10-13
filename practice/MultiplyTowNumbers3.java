@@ -1,3 +1,5 @@
+// 3.Write a Java program that takes two numbers and display the product of two numbers
+
 import java.util.Scanner;
 
 public class MultiplyTowNumbers3 {
